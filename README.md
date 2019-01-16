@@ -1,2 +1,2 @@
-# transfer_learning
+# Transfer learning with TensorFlow
 Transfer learning with TensorFlow
